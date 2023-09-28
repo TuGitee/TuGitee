@@ -12,3 +12,13 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TuGitee/TuGitee/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TuGitee/TuGitee/output/github-contribution-grid-snake.svg">
 </picture>
+
+<div align="center">
+  <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/TuGitee/TuGitee/assets/html.webp">
+  <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/TuGitee/TuGitee/assets/css.webp">
+  <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/TuGitee/TuGitee/assets/js.webp">
+  <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/TuGitee/TuGitee/assets/vue.webp">
+  <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/TuGitee/TuGitee/assets/vscode.webp">
+  <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/TuGitee/TuGitee/assets/python.webp">
+  <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/TuGitee/TuGitee/assets/github.webp">
+</div>
